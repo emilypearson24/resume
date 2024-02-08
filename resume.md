@@ -4,9 +4,9 @@ Geophysical Engineering student at Colorado School of Mines.
 
 Golden, CO
 
-emilypearson@mines.edu
+[LinkedIn Profile](https://www.linkedin.com/in/e-pearson/)
 
-https://www.linkedin.com/in/e-pearson/
+emilypearson@mines.edu
 
 ![filesystem-project](https://github.com/emilypearson24/resume/blob/23589eed69e9a6695a03fb7ac07643972593b8cf/spring-2024-PrepWithReps-1.jpg?raw=true)
 
