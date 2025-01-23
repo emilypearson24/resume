@@ -3,4 +3,7 @@
 - Location: Golden, CO
 
 ## Education
-- BSc. Geophysics, Colorado School of Mines(2027)
+- BSc. Geophysics, Colorado School of Mines (2027)
+
+## Hobbies
+- Baking
