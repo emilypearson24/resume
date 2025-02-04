@@ -1,7 +1,8 @@
 # Emily Pearson
 - Email: emilypearson@mines.edu
-- Location: Golden, CO
-[LinkedIn Profile](https://www.linkedin.com/in/e-pearson/)
+- Location: Golden, CO <br />
+[LinkedIn Profile](https://www.linkedin.com/in/e-pearson/) <br />
+![Prep with Reps Spring 2024 Headshot](C:\Users\emily\OneDrive\Desktop\pictures\headshots\spring-2024-PrepWithReps-1.jpg)
 
 ## Education
 - BSc. Geophysics, Colorado School of Mines (2027)
